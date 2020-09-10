@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.jumbotron {
+    padding:100px 40px 100px 40px;
+    margin:0px auto;
+    background: rgb(168,125,50) ;
+    color:yellow;
+    
+}
+
+.border {
+  padding: 20px;
+  background: rgb(60,60,60);
+}
